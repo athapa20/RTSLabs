@@ -1,3 +1,6 @@
+//Rotate the characters in a string by a given input
+//and have the overflow appear at the beginning
+
 public class Main {
     public static void main(String[] args) {
         String test = "MyString";
