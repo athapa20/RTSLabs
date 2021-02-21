@@ -1,3 +1,6 @@
+//Print the number of integers in an array that are
+//above the given input and the number that are below
+
 public class Count {
     public static void main(String[] args) {
         int countAbove = 0;
